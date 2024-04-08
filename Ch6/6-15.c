@@ -8,3 +8,4 @@ void main()
 		printf(" %d X %d = %d \n",i,k,i*k);
 
 }
+
