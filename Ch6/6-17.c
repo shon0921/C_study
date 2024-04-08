@@ -6,7 +6,7 @@ void main()
 	
 	for(a=2;a<10;a++)
 	{
-		printf(" #Á¦%d´Ü#",a);
+		printf(" #ÃÂ¦%dÂ´Ãœ#",a);
 	}
 	printf("\n\n");
 
