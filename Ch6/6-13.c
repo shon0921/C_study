@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//손해성
 void main()
 {
 	int i,k;
