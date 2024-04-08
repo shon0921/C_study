@@ -6,7 +6,7 @@ void main()
 
 	for ( ; ; )
 	{
-		printf("´õÇÒ µÎ ¼ö ÀÔ·Â (¸ØÃß·Á¸é ctrl+c) : ");
+		printf("Â´ÃµÃ‡Ã’ ÂµÃ Â¼Ã¶ Ã€Ã”Â·Ã‚ (Â¸Ã˜ÃƒÃŸÂ·ÃÂ¸Ã© ctrl+c) : ");
 		scanf("%d %d", &a, &b);
 
 		printf("%d + %d = %d \n", a,b, a+b);
